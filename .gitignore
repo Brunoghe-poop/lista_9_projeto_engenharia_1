@@ -1,4 +1,4 @@
-# Ignorar ficheiros objeto e executáveis (exigência 5)
+# Ignorar ficheiros objeto e executáveis
 *.o
 *.exe
 *.a
