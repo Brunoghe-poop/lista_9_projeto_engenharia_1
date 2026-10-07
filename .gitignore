@@ -1,0 +1,9 @@
+# Ignorar ficheiros objeto e executáveis (exigência 5)
+*.o
+*.exe
+*.a
+*.so
+*.dll
+
+# Ignorar tudo o que for gerado dentro da pasta bin
+bin/*
