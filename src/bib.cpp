@@ -6,3 +6,6 @@ int calcularFatorial(int n) {
     }
     return n * calcularFatorial(n - 1);
 }
+int somar(int a, int b) {
+    return a + b;
+}
